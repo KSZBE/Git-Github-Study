@@ -1,2 +1,3 @@
 Hello world!
 Modified test
+Conflict test hot-fix
